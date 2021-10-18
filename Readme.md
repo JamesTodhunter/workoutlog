@@ -1,1 +1,1 @@
-![](register.PNG) 
+![alt image] (http://C:\Users\rikiw\OneDrive\Desktop\ElevenfiftyProjects\workoutlog.server\images\register.PNG)
